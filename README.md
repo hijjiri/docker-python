@@ -1,5 +1,13 @@
 # docker-python
 
+## よく使うコマンド</br>
+```container_id = 0374971c278f```</br>
+```docker ps```</br>
+```docker stop <container_id>```</br>
+```docker start <container_id>```</br>
+```docker restart <container_id>```</br>
+
+
 ## コンテナ作成方法</br>
 ```git clone https://github.com/kino-code/docker-python.git (ディレクトリ名を記述)```</br>
 ```cd (ディレクトリ名を記述)```</br>
