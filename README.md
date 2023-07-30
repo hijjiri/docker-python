@@ -10,7 +10,8 @@
 ``` docker-compose down ```</br>
 ## docker-compose restart
 ``` docker-compose restart ```</br>
-``` ```</br>
+## docker imagesの削除
+``` docker rmi <Id> ```</br>
 
 ## VSCodeのDocker拡張機能について
 【containers】のコンテナ名を右クリックしてアタッチさせる
