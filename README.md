@@ -12,6 +12,9 @@
 ``` docker-compose restart ```</br>
 ``` ```</br>
 
+## VSCodeのDocker拡張機能について
+【containers】のコンテナ名を右クリックしてアタッチさせる
+
 ## よく使うコマンド</br>
 ```container_id = 9380754228ba```</br>
 ```docker ps```</br>
