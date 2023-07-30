@@ -1,13 +1,10 @@
 # docker-python
 
-## Dockerfileに追記するコード
-RUN pip install librosa soundfile
-
 ## テストコード:
 ```python test.py```</br>
 ## 現在のコンテナ状態をチェック:
 ```docker-compose ps ```</br>
-## Dockerイメージのビルドとコンテナの起動:
+## Dockerイメージのビルドとコンテナの起動:****
 ```docker-compose up -d --build ```</br>
 ## Docker Composeを停止する:
 ``` docker-compose down ```</br>
@@ -21,7 +18,6 @@ RUN pip install librosa soundfile
 ```docker stop <container_id>```</br>
 ```docker start <container_id>```</br>
 ```docker restart <container_id>```</br>
-
 
 ## コンテナ作成方法</br>
 ```git clone https://github.com/kino-code/docker-python.git (ディレクトリ名を記述)```</br>
